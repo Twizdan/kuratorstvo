@@ -33,3 +33,5 @@ print(f.lower().split().count('люблю'))
 
 with open('kur33.txt', encoding='utf-8') as file:
     print(file.read().lower().count('люблю'))
+
+#Самое короткое
